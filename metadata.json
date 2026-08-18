@@ -1,0 +1,6 @@
+{
+  "name": "Bankey Bihari Book Depot",
+  "description": "Website for Bankey Bihari Book Depot in Mathura, India — Hard binding, thesis printing, UV printing, bulk Xerox, stationery, and home delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
